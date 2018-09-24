@@ -1,2 +1,2 @@
 # Map-My-World
-SLAM (description pending)
+Placeholder text until description and project make substantial progress
